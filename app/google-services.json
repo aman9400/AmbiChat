@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "286930180946",
+    "project_id": "chato2o",
+    "storage_bucket": "chato2o.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286930180946:android:e5d4b0ef7210473ef5b88b",
+        "android_client_info": {
+          "package_name": "com.ambiguous.chatO2O"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286930180946-mj1u6umiki593p3d7h0i44ejvvt30gr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkW4-k1AqC0Tp4ATdFuWqmSFJmlOimbK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286930180946-mj1u6umiki593p3d7h0i44ejvvt30gr8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
